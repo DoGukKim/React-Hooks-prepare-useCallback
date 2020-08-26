@@ -1,7 +1,12 @@
 import React from "react";
+import Average from "./Average";
 
 function App() {
-  return <div></div>;
+  return (
+    <>
+      <Average />
+    </>
+  );
 }
 
 export default App;
